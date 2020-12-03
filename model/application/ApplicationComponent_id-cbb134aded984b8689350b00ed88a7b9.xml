@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tango"
+    id="id-cbb134aded984b8689350b00ed88a7b9">
+  <properties
+      key="APPID"
+      value="APP-2814"/>
+</archimate:ApplicationComponent>
